@@ -28,7 +28,7 @@
 
 (The media upload transaction confirmation by metamask)
 
-![file-upload-confirmation](images/screenshot-uploading-page.png)
+![file-upload-confirmation](images/screenshot-uploadloading-page.png)
 
 ### Tipiing and Amount
 
