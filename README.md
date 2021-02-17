@@ -2,15 +2,21 @@
 
 ### Welcome to the new way Media Sharing & Being Incentivized
 
-    -- Here rather than simply sharing for the sake of it, you can share your posts/media and be tokenized by users who like/tip your post, directly from their account to yours, without the service-provider's acting as middlemen.
+    -- Here rather than simply sharing for the sake of it, 
+        you can share your posts/media and be tokenized by users 
+        who like/tip your post, directly from their account to yours, without the service-provider's acting as middlemen.
 
-    -- This app uses IPFS to store your media in a de-centralized secure file storing network
+    -- This app uses IPFS to store your media in a de-centralized secure 
+        file storing network
 
-    -- The media file hashe's are then mapped with the Ethereum Wallet Account that approved the transaction or uploaded the post.
+    -- The media file hashe's are then mapped with the Ethereum Wallet 
+        Account that approved the transaction or uploaded the post.
 
-    -- This ensures no other account can view/tamper with the documents on another account
+    -- This ensures no other account can view/tamper with the documents 
+        on another account
 
-    -- The contracts are written in Solidity Language, and tested and deployed using Ganache and Truffle Framework
+    -- The contracts are written in Solidity Language, and tested and 
+        deployed using Ganache and Truffle Framework
 
     -- The Client Side app is developed using React.JS & Web3.js
 
