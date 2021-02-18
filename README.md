@@ -1,6 +1,6 @@
 ## `Decentralized Art & Media Sharing Platform.`
 
-### Welcome to the new way Media Sharing & Being Incentivized
+### Welcome to the new way of Sharing Media & Being Incentivized
 
     -- Here rather than simply sharing for the sake of it,
         you can share your posts/media and be tokenized by users
